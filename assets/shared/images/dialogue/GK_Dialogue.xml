@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GK_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gkangrier0000" x="0" y="0" width="311" height="414"/>
+	<SubTexture name="gkangrier0001" x="311" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gkangrier0002" x="311" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gkangrier0003" x="311" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gkangrier0004" x="311" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gkangrier0005" x="311" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gkangrierloop0000" x="311" y="0" width="306" height="421" frameX="-10" frameY="0" frameWidth="316" frameHeight="435"/>
+	<SubTexture name="gkangrierloop0001" x="311" y="0" width="306" height="421" frameX="-10" frameY="0" frameWidth="316" frameHeight="435"/>
+	<SubTexture name="gkangrierloop0002" x="617" y="0" width="311" height="427" frameX="0" frameY="-8" frameWidth="316" frameHeight="435"/>
+	<SubTexture name="gkangrierloop0003" x="617" y="0" width="311" height="427" frameX="0" frameY="-8" frameWidth="316" frameHeight="435"/>
+	<SubTexture name="gkangrierloop0004" x="928" y="0" width="311" height="414" frameX="-3" frameY="-8" frameWidth="316" frameHeight="435"/>
+	<SubTexture name="gkangrierloop0005" x="928" y="0" width="311" height="414" frameX="-3" frameY="-8" frameWidth="316" frameHeight="435"/>
+	<SubTexture name="gktalk0000" x="1239" y="0" width="311" height="414"/>
+	<SubTexture name="gktalk0001" x="1550" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gktalk0002" x="1550" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gktalk0003" x="1550" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gktalk0004" x="1550" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gktalk0005" x="1550" y="0" width="0" height="0" frameX="-176" frameY="-293" frameWidth="311" frameHeight="414"/>
+	<SubTexture name="gktalkloop0000" x="1550" y="0" width="311" height="429" frameX="0" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="gktalkloop0001" x="1550" y="0" width="311" height="429" frameX="0" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="gktalkloop0002" x="0" y="429" width="306" height="410" frameX="-10" frameY="-5" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="gktalkloop0003" x="0" y="429" width="306" height="410" frameX="-10" frameY="-5" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="gktalkloop0004" x="306" y="429" width="311" height="414" frameX="-3" frameY="-2" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="gktalkloop0005" x="306" y="429" width="311" height="414" frameX="-3" frameY="-2" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="shakestickatgod0000" x="617" y="429" width="431" height="414"/>
+	<SubTexture name="shakestickatgod0001" x="1048" y="429" width="0" height="0" frameX="-176" frameY="-293" frameWidth="431" frameHeight="414"/>
+	<SubTexture name="shakestickatgod0002" x="1048" y="429" width="0" height="0" frameX="-176" frameY="-293" frameWidth="431" frameHeight="414"/>
+	<SubTexture name="shakestickatgod0003" x="1048" y="429" width="0" height="0" frameX="-176" frameY="-293" frameWidth="431" frameHeight="414"/>
+	<SubTexture name="shakestickatgod0004" x="1048" y="429" width="0" height="0" frameX="-176" frameY="-293" frameWidth="431" frameHeight="414"/>
+	<SubTexture name="shakestickatgod0005" x="1048" y="429" width="0" height="0" frameX="-176" frameY="-293" frameWidth="431" frameHeight="414"/>
+	<SubTexture name="shakestickatgodloop0000" x="1048" y="429" width="448" height="429"/>
+	<SubTexture name="shakestickatgodloop0001" x="1048" y="429" width="448" height="429"/>
+	<SubTexture name="shakestickatgodloop0002" x="1496" y="429" width="399" height="410" frameX="-10" frameY="-5" frameWidth="448" frameHeight="429"/>
+	<SubTexture name="shakestickatgodloop0003" x="1496" y="429" width="399" height="410" frameX="-10" frameY="-5" frameWidth="448" frameHeight="429"/>
+	<SubTexture name="shakestickatgodloop0004" x="0" y="858" width="431" height="414" frameX="-3" frameY="-2" frameWidth="448" frameHeight="429"/>
+	<SubTexture name="shakestickatgodloop0005" x="0" y="858" width="431" height="414" frameX="-3" frameY="-2" frameWidth="448" frameHeight="429"/>
+</TextureAtlas>

@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "nice.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "nice.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "he's not screaming anymore.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "actually, he's just kinda staring at you\\nand not saying anything.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "i think he calmed down",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Calm...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "How can I calm down...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "angry",
+			"text": "...after that blatant show of disrespect?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "i mean",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "a lot of people like to calm down by singing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "be beeskep po bo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "...That is the most inane thing I've ever heard.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "so are you gonna get mad and try to kill us-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "That's it! You have annoyed me for the last time!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "sounds like a yes",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Any last words?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "a hero wouldn't be such a sore loser",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "evil. 100%.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gk",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Hey-!"
+		},
+		{
+			"expression": "talk",
+			"text": "Just then, another blue portal appeared.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "well we'd love to stick around but we have the obligatory third song to get to",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "seeya",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "seeya",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shakefist",
+			"text": "RAARGH!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "Grand Knight tried to chase after them, but they had already passed through the portal, which closed up moments later.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "narrator"
+		}
+	]
+}

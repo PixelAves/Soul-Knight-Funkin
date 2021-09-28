@@ -1,0 +1,207 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Huh? Where are we now?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "idk looks like a castle",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Is anyone else here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "look in front of you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "oh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "WHO ARE YOU?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "beppity beep bop. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shakefist",
+			"text": "Answer me this instant!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "beskeppity skedoo bop bap beep. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "How dare you act so disrespectful!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "Do you even know who I am?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "shakefist",
+			"text": "I am the Grand Knight! The Avatar of \\nHeroes! ",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "idk you dont look very heroic",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "you kinda look like a bad guy actually",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "Silence!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "I didn't help steal the magic stones to be disrespected like this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "stealing is wrong though. youre definitely evil.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "THAT'S IT! I'M GONNA-",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "so when are we going to start rapping?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": ".",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "Explain.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "every friday a bunch of people challenge us to rap battles.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "theres probably one more after this so lets hurry it up. i have to get home by 10.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "A... rap battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "b",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": " ...Fine. But after this, I'll-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gk"
+		},
+		{
+			"expression": "talk",
+			"text": "three two one go lets go.",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "gf"
+		}
+	]
+}

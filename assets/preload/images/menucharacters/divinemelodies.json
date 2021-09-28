@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_DivineMelodies",
+	"position": [
+		15,
+		-40
+	],
+	"scale": 1,
+	"idle_anim": "DivineMelodiesBF",
+	"confirm_anim": "m bf HEY"
+}

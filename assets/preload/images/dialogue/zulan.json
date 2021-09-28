@@ -1,0 +1,37 @@
+{
+	"position": [
+		100,
+		30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Zulan_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "zulantalk",
+			"loop_name": "zulantalkloop"
+		},
+		{
+			"loop_name": "zulanredloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "zulanred",
+			"anim": "red",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

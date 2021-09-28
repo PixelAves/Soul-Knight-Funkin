@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Grand Knight Idle"
+		},
+		{
+			"offsets": [
+				3,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Grand Knight Left"
+		},
+		{
+			"offsets": [
+				4,
+				-152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Grand Knight Right"
+		},
+		{
+			"offsets": [
+				8,
+				-176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Grand Knight Down"
+		},
+		{
+			"offsets": [
+				0,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Grand Knight Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GrandKnight_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "grandknight",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

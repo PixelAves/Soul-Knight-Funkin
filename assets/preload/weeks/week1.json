@@ -1,0 +1,48 @@
+{
+	"storyName": "Boss Rush",
+	"hideFreeplay": false,
+	"weekBackground": "bossrush",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Rival",
+			"snare",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Threat",
+			"grandknight",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Finale",
+			"zulan",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "week1"
+}

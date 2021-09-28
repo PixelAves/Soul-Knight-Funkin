@@ -1,0 +1,298 @@
+{
+	"dialogue": [
+		{
+			"expression": "red",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "red",
+			"text": "........",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh. Impressive.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "Thanks.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...You two really aren't part of the Guild, are you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "...Beep boop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "nah, never even heard of it until you mentioned it",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, in that case, sorry for saying I was going to terminate the two of you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll let you two leave since you're not planning on interrupting our plans to take over Earth.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "oh sick thanks",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ske bo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ZULAN!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "WHAT ON EARTH ARE YOU DOING?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "I was checking the security cameras, and what do I see?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "You, singing against an intruder instead of... I dunno...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GETTING RID OF THE INTRUDER?!"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello Varkolyn Leader. The intruders showed up here by mistake and asked me to sing.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "And what makes you think they're not with the enemy?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "...They said so.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "Th...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "They SAID SO?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Do I have to do everything here myself?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "They have not done anything harmful. I see no reason to do anything about them.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Use your head, Zulan! What if they were sent here to distract you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "We could've been attacked while you were busy SINGING. Against an INTRUDER.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "...i think we should leave.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah... let's leave them for now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Just then, a portal had appeared. How\\nconvenient!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "nice",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Maybe this one will take us home.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i sure hope so. it might be past 10.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "And so they walked through the portal,\\nleaving the bickering aliens behind them.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Fortunately, the portal did lead them back home, allowing them to rest after such an eventful Friday night.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "And so they lived happily ever after",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "until next Friday.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		}
+	]
+}

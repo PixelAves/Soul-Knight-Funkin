@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"expression": "tired",
+			"text": "Ugh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "tired",
+			"text": "Why does everyone have to be such a show off...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "be ske beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "As much as I hate to say it, I'm a sentient man-eating flower of my word.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "You won, you get to leave.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "tired",
+			"text": "Just",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "snare",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "never come here again."
+		},
+		{
+			"expression": "talk",
+			"text": "All of the sudden, a blue glow apeared, just out of Boyfriend and Girlfriend's sight.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "They turn their attention to the glow. It looked like...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "a portal?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh cool, where do you think it goes?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "idk wanna find out?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, why not? What's the worst that could happen?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wideeye",
+			"text": "Whu...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "wideeye",
+			"text": "You could speak English this entire time...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wideeye",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "wideeye",
+			"text": "...You're just screwing with me, aren't you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "You're just screwing with me now, aren't you?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "That's it! Get back here right now!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "bye flower lady, have a nice night :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I SAID GET BACK HERE!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "They did not get back there.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Instead, they walked through the portal, ready to find out where it lead.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		}
+	]
+}

@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Boyfriend and Girlfriend stroll through the\\nforest, taking in the sights.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "It was nice at first, but... there really isn't\\nmuch to look at in a forest besides trees and grass.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "It wasn't long until they started wishing\\nsomething interesting would happen.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Fortunately for them, their prayers were soon answered. The peaceful silence was suddenly broken by-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey! Who's there?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "wideeye",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "wideeye",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "snare",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...Who are you?",
+			"boxState": "normal",
+			"portrait": "snare",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "hey.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...And how did you get those giant speakers\\nhere...?",
+			"boxState": "normal",
+			"portrait": "snare",
+			"speed": 0.05
+		},
+		{
+			"expression": "tired",
+			"text": "You know what? Nevermind.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, listen closely human. NORMALLY I'd\\ndrag you into the dirt and devour you without a second thought...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "ye",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...buuuut you're somehow the least annoying humans I've ever met. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "(Besides, I already ate...)",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "So I'm going to give you a chance to make it out of here alive.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "We're going to have a singing battle.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "theeeere it is",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "If you win, I'll let you leave this time. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "smirk",
+			"text": "If you LOSE, however...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "you drag us into the dirt and eat us?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey! I wasn't done talking!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "snare"
+		},
+		{
+			"expression": "talk",
+			"text": "oh sorry you can continue",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "tired",
+			"text": "No, you ruined it. Let's just sing...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "snare"
+		}
+	]
+}

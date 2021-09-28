@@ -1,0 +1,63 @@
+{
+	"position": [
+		60,
+		60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "GK_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "gktalk",
+			"loop_name": "gktalkloop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gkangrierloop",
+			"idle_name": "gkangrier"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shakefist",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shakestickatgod",
+			"idle_name": "shakestickatgod"
+		},
+		{
+			"loop_name": "shakestickatgodloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shakestickatgod",
+			"anim": "shake",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zulan_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zulanred0000" x="0" y="0" width="362" height="556"/>
+	<SubTexture name="zulanred0001" x="362" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulanred0002" x="362" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulanred0003" x="362" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulanred0004" x="362" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulanred0005" x="362" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulanred0006" x="362" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulanredloop0000" x="362" y="0" width="363" height="554" frameX="0" frameY="-6" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulanredloop0001" x="362" y="0" width="363" height="554" frameX="0" frameY="-6" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulanredloop0002" x="725" y="0" width="357" height="552" frameX="-1" frameY="0" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulanredloop0003" x="725" y="0" width="357" height="552" frameX="-1" frameY="0" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulanredloop0004" x="1082" y="0" width="362" height="556" frameX="-2" frameY="-3" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulanredloop0005" x="1082" y="0" width="362" height="556" frameX="-2" frameY="-3" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulanredloop0006" x="1444" y="0" width="0" height="0" frameX="-278" frameY="-370" frameWidth="364" frameHeight="560"/>
+	<SubTexture name="zulantalk0000" x="1444" y="0" width="362" height="556"/>
+	<SubTexture name="zulantalk0001" x="1806" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulantalk0002" x="1806" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulantalk0003" x="1806" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulantalk0004" x="1806" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulantalk0005" x="1806" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulantalk0006" x="1806" y="0" width="0" height="0" frameX="-276" frameY="-367" frameWidth="362" frameHeight="556"/>
+	<SubTexture name="zulantalkloop0000" x="0" y="556" width="366" height="557" frameX="0" frameY="0" frameWidth="367" frameHeight="570"/>
+	<SubTexture name="zulantalkloop0001" x="0" y="556" width="366" height="557" frameX="0" frameY="0" frameWidth="367" frameHeight="570"/>
+	<SubTexture name="zulantalkloop0002" x="366" y="556" width="358" height="557" frameX="-2" frameY="-13" frameWidth="367" frameHeight="570"/>
+	<SubTexture name="zulantalkloop0003" x="366" y="556" width="358" height="557" frameX="-2" frameY="-13" frameWidth="367" frameHeight="570"/>
+	<SubTexture name="zulantalkloop0004" x="724" y="556" width="362" height="556" frameX="-5" frameY="-11" frameWidth="367" frameHeight="570"/>
+	<SubTexture name="zulantalkloop0005" x="724" y="556" width="362" height="556" frameX="-5" frameY="-11" frameWidth="367" frameHeight="570"/>
+	<SubTexture name="zulantalkloop0006" x="1086" y="556" width="0" height="0" frameX="-281" frameY="-378" frameWidth="367" frameHeight="570"/>
+</TextureAtlas>

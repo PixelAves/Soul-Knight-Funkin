@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				800,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Snare Idle"
+		},
+		{
+			"offsets": [
+				860,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Snare Left"
+		},
+		{
+			"offsets": [
+				790,
+				216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Snare Right"
+		},
+		{
+			"offsets": [
+				810,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Snare Down"
+		},
+		{
+			"offsets": [
+				814,
+				271
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Snare Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snareEnraged",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "snare",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		-620,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Snare_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snareisdone0000" x="0" y="0" width="340" height="529"/>
+	<SubTexture name="snareisdone0001" x="340" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snareisdone0002" x="340" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snareisdone0003" x="340" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snareisdone0004" x="340" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snareisdone0005" x="340" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snareisdone0006" x="340" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snareisdoneloop0000" x="340" y="0" width="339" height="529" frameX="-6" frameY="-2" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snareisdoneloop0001" x="340" y="0" width="339" height="529" frameX="-6" frameY="-2" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snareisdoneloop0002" x="679" y="0" width="346" height="530" frameX="0" frameY="0" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snareisdoneloop0003" x="679" y="0" width="346" height="530" frameX="0" frameY="0" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snareisdoneloop0004" x="1025" y="0" width="340" height="529" frameX="-6" frameY="-3" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snareisdoneloop0005" x="1025" y="0" width="340" height="529" frameX="-6" frameY="-3" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snareisdoneloop0006" x="1365" y="0" width="0" height="0" frameX="47" frameY="-22" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snaresmirk0000" x="1365" y="0" width="340" height="529"/>
+	<SubTexture name="snaresmirk0001" x="1705" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaresmirk0002" x="1705" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaresmirk0003" x="1705" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaresmirk0004" x="1705" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaresmirk0005" x="1705" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaresmirk0006" x="1705" y="0" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaresmirkloop0000" x="1705" y="0" width="337" height="534" frameX="-6" frameY="-3" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaresmirkloop0001" x="1705" y="0" width="337" height="534" frameX="-6" frameY="-3" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaresmirkloop0002" x="0" y="534" width="344" height="536" frameX="0" frameY="0" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaresmirkloop0003" x="0" y="534" width="344" height="536" frameX="0" frameY="0" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaresmirkloop0004" x="344" y="534" width="340" height="529" frameX="-4" frameY="-9" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaresmirkloop0005" x="344" y="534" width="340" height="529" frameX="-4" frameY="-9" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaresmirkloop0006" x="684" y="534" width="0" height="0" frameX="49" frameY="-28" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalk0000" x="684" y="534" width="340" height="529"/>
+	<SubTexture name="snaretalk0001" x="1024" y="534" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaretalk0002" x="1024" y="534" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaretalk0003" x="1024" y="534" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaretalk0004" x="1024" y="534" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaretalk0005" x="1024" y="534" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaretalk0006" x="1024" y="534" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snaretalkloop0000" x="1024" y="534" width="337" height="534" frameX="-6" frameY="-3" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalkloop0001" x="1024" y="534" width="337" height="534" frameX="-6" frameY="-3" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalkloop0002" x="1361" y="534" width="344" height="536" frameX="0" frameY="0" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalkloop0003" x="1361" y="534" width="344" height="536" frameX="0" frameY="0" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalkloop0004" x="1705" y="534" width="340" height="529" frameX="-4" frameY="-9" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalkloop0005" x="1705" y="534" width="340" height="529" frameX="-4" frameY="-9" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snaretalkloop0006" x="2045" y="534" width="0" height="0" frameX="49" frameY="-28" frameWidth="344" frameHeight="538"/>
+	<SubTexture name="snarewideeye0000" x="0" y="1070" width="340" height="529"/>
+	<SubTexture name="snarewideeye0001" x="340" y="1070" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snarewideeye0002" x="340" y="1070" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snarewideeye0003" x="340" y="1070" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snarewideeye0004" x="340" y="1070" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snarewideeye0005" x="340" y="1070" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snarewideeye0006" x="340" y="1070" width="0" height="0" frameX="53" frameY="-19" frameWidth="340" frameHeight="529"/>
+	<SubTexture name="snarewideeyeloop0000" x="340" y="1070" width="339" height="529" frameX="-6" frameY="-2" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snarewideeyeloop0001" x="340" y="1070" width="339" height="529" frameX="-6" frameY="-2" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snarewideeyeloop0002" x="679" y="1070" width="346" height="530" frameX="0" frameY="0" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snarewideeyeloop0003" x="679" y="1070" width="346" height="530" frameX="0" frameY="0" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snarewideeyeloop0004" x="1025" y="1070" width="340" height="529" frameX="-6" frameY="-3" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snarewideeyeloop0005" x="1025" y="1070" width="340" height="529" frameX="-6" frameY="-3" frameWidth="346" frameHeight="532"/>
+	<SubTexture name="snarewideeyeloop0006" x="1365" y="1070" width="0" height="0" frameX="47" frameY="-22" frameWidth="346" frameHeight="532"/>
+</TextureAtlas>

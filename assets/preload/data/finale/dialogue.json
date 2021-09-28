@@ -1,0 +1,263 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "oh wow this place is actually pretty cool",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, uh... look out the window.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "oh wow look at all the stars. is it dark\\nalready?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...wait is that the earth",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Girlfriend, I think we're in space!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "How cool is that?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "very cool. but we still gotta get home.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Right, right. Maybe this giant menacing robot guy knows how to get back.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "be ba skebee bo bopp.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...Hmm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "hello. beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...Are you one of those... guys from Earth? The Knight's Guild?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "bop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll take that as a no.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "So, what brings you two here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "we were fighting a flower.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mmhmm...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "and then we fought some angry knight guy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ugh, him?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "and then a portal took us here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I see.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I'm sorry to say that's exactly what a Knight's Guild member would say.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "so, are you gonna try and kill us too then",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well... better safe than sorry. I'm sure you two understand.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "oh yeah that makes sense",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Be ske bo boppe bep ba!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? What is it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "i think he wants to sing against you before you try to kill us.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "ske bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...Sing? ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I'm no singer, but... it couldn't hurt to try. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "But after this, we'll have to proceed with your termination.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zulan"
+		},
+		{
+			"expression": "talk",
+			"text": "ok :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

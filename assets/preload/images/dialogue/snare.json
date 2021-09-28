@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "snaretalkloop",
+			"idle_name": "snaretalk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "snaresmirkloop",
+			"idle_name": "snaresmirk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "wideeye",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "snarewideeyeloop",
+			"idle_name": "snarewideye"
+		},
+		{
+			"loop_name": "snareisdoneloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "snareisdone",
+			"anim": "tired",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Snare_Dialogue"
+}
