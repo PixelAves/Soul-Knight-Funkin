@@ -3,9 +3,4 @@ livingroom
 forest
 kingdom
 philly
-spooky
-limo
-mall
-mallEvil
-school
-schoolEvil
+halloween

@@ -382,7 +382,7 @@ class PlayState extends MusicBeatState
 				CoolUtil.precacheSound('thunder_1');
 				CoolUtil.precacheSound('thunder_2');
 
-	case 'livingroom': //Tutorial
+			case 'livingroom': //Tutorial
 				var bg:BGSprite = new BGSprite('livingRoom/livingRoom', -600, -200, 0.9, 0.9);
 				add(bg);
 
@@ -392,6 +392,10 @@ class PlayState extends MusicBeatState
 
 			case 'kingdom': //Week 1
 				var bg:BGSprite = new BGSprite('kingdom/kingdom', -600, -200, 0.9, 0.9);
+				add(bg);
+				
+			case 'halloween': //Freeplay
+				var bg:BGSprite = new BGSprite('halloween/halloween', -600, -200, 0.9, 0.9);
 				add(bg);
 
 			case 'philly': //Week 3
@@ -2383,28 +2387,48 @@ class PlayState extends MusicBeatState
 									}
 								});
 
-								if(!daNote.ignoreNote) {
-									health -= daNote.missHealth; //For testing purposes
-									songMisses++;
-									vocals.volume = 0;
-									RecalculateRating();
+			                                                            if(!daNote.ignoreNote && !daNote.noignoreNote) {
+							health -= daNote.missHealth; //For testing purposes
+							songMisses++;
+							vocals.volume = 0;
+							RecalculateRating();
 
-									switch (daNote.noteData % 4)
-									{
-										case 0:
-											boyfriend.playAnim('singLEFTmiss', true);
-										case 1:
-											boyfriend.playAnim('singDOWNmiss', true);
-										case 2:
-											boyfriend.playAnim('singUPmiss', true);
-										case 3:
-											boyfriend.playAnim('singRIGHTmiss', true);
-									}
-									callOnLuas('noteMiss', [notes.members.indexOf(daNote), daNote.noteData, daNote.noteType, daNote.isSustainNote]);
-								}
+							switch (daNote.noteData % 4)
+							{
+								case 0:
+									boyfriend.playAnim('singLEFTmiss', true);
+								case 1:
+									boyfriend.playAnim('singDOWNmiss', true);
+								case 2:
+									boyfriend.playAnim('singUPmiss', true);
+								case 3:
+									boyfriend.playAnim('singRIGHTmiss', true);
 							}
+							callOnLuas('noteMiss', [notes.members.indexOf(daNote), daNote.noteData, daNote.noteType, daNote.isSustainNote]);
+						}
+
+							if(daNote.noignoreNote) {
+							health -= daNote.missHealth;
+							RecalculateRating();
+
+							switch (daNote.noteData % 4)
+							{
+								case 0:
+									boyfriend.playAnim('singLEFTmiss', true);
+								case 1:
+									boyfriend.playAnim('singDOWNmiss', true);
+								case 2:
+									boyfriend.playAnim('singUPmiss', true);
+								case 3:
+									boyfriend.playAnim('singRIGHTmiss', true);		
+							}
+							callOnLuas('noteMiss', [notes.members.indexOf(daNote), daNote.noteData, daNote.noteType, daNote.isSustainNote]);
 						}
 					}
+				}
+			}					
+
+	
 
 					daNote.active = false;
 					daNote.visible = false;
@@ -3458,6 +3482,8 @@ class PlayState extends MusicBeatState
 						}
 					}
 					return;
+				case 'Invisible Note': //Hurt note
+					health+= 0.006;
 			}
 
 			if (!note.isSustainNote)

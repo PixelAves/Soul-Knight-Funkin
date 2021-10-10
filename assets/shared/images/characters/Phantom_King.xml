@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Phantom_King.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Phantom King Down0000" x="0" y="0" width="590" height="743" frameX="0" frameY="0" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0001" x="0" y="0" width="590" height="743" frameX="0" frameY="0" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0002" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0003" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0004" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0005" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0006" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0007" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0008" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0009" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0010" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Down0011" x="590" y="0" width="590" height="740" frameX="0" frameY="-9" frameWidth="590" frameHeight="749"/>
+	<SubTexture name="Phantom King Idle0000" x="1180" y="0" width="547" height="927" frameX="-65" frameY="0" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0001" x="1180" y="0" width="547" height="927" frameX="-65" frameY="0" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0002" x="1727" y="0" width="548" height="926" frameX="-57" frameY="-10" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0003" x="1727" y="0" width="548" height="926" frameX="-57" frameY="-10" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0004" x="2275" y="0" width="551" height="899" frameX="-9" frameY="-68" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0005" x="2275" y="0" width="551" height="899" frameX="-9" frameY="-68" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0006" x="2826" y="0" width="551" height="897" frameX="-3" frameY="-72" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0007" x="2826" y="0" width="551" height="897" frameX="-3" frameY="-72" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0008" x="3377" y="0" width="550" height="899" frameX="0" frameY="-72" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0009" x="3377" y="0" width="550" height="899" frameX="0" frameY="-72" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0010" x="0" y="927" width="551" height="901" frameX="-3" frameY="-68" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Idle0011" x="0" y="927" width="551" height="901" frameX="-3" frameY="-68" frameWidth="612" frameHeight="971"/>
+	<SubTexture name="Phantom King Left0000" x="551" y="927" width="467" height="901" frameX="-8" frameY="0" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0001" x="551" y="927" width="467" height="901" frameX="-8" frameY="0" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0002" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0003" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0004" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0005" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0006" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0007" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0008" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0009" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0010" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Left0011" x="1018" y="927" width="467" height="899" frameX="0" frameY="-1" frameWidth="475" frameHeight="901"/>
+	<SubTexture name="Phantom King Right0000" x="1485" y="927" width="803" height="656" frameX="0" frameY="-3" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0001" x="1485" y="927" width="803" height="656" frameX="0" frameY="-3" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0002" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0003" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0004" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0005" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0006" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0007" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0008" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0009" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0010" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Right0011" x="2288" y="927" width="808" height="648" frameX="-13" frameY="0" frameWidth="821" frameHeight="659"/>
+	<SubTexture name="Phantom King Up0000" x="3096" y="927" width="489" height="1034" frameX="-4" frameY="-12" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0001" x="3096" y="927" width="489" height="1034" frameX="-4" frameY="-12" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0002" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0003" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0004" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0005" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0006" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0007" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0008" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0009" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0010" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+	<SubTexture name="Phantom King Up0011" x="3585" y="927" width="497" height="1027" frameX="0" frameY="0" frameWidth="497" frameHeight="1046"/>
+</TextureAtlas>

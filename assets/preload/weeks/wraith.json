@@ -1,0 +1,30 @@
+{
+	"storyName": "Boss Rush",
+	"hideFreeplay": false,
+	"weekBackground": "bossrush",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Wraith",
+			"phantomking",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Wraith"
+}

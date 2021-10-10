@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Phantom King Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Phantom King Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Phantom King Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Phantom King Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				421
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Phantom King Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PhantomKing_Invi",
+	"position": [
+		80,
+		250
+	],
+	"healthicon": "phantomking",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
